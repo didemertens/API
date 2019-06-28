@@ -10,6 +10,8 @@ django = "*"
 djangorestframework = "==3.9.2"
 django-rest-auth = "==0.9.5"
 django-allauth = "==0.38.0"
+coreapi = "==2.3.3"
+pyyaml = "==5.1"
 
 [requires]
 python_version = "3.7"
